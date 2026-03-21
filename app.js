@@ -4,6 +4,7 @@ if(process.env.NODE_ENV != "production"){
 
 const express = require("express");
 const app = express();
+app.set("trust proxy",1);
 const mongoose = require("mongoose");
 const port = 8080;
 const path = require("path");
@@ -61,7 +62,7 @@ const sessionOptions = {
         expires : Date.now() + 7 * 24 * 60 * 60 * 1000,
         maxAge : 7 * 24 * 60 * 60 * 1000,
         httpOnly : true,
-        secure: process.env.NODE_ENV === "production"  // HTTPS only in production
+        secure: false  // HTTPS only in production
     }
 };
 
