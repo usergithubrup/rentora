@@ -159,10 +159,10 @@ Project1/
 
 ## 🧑‍💻 Author & Contact
 
-**Your Name**  
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)
-- 🐙 **GitHub**: [github.com/your-username](https://github.com)
-- 📧 **Email**: your.email@example.com
+**Rupchand Naiya**  
+- 💼 **LinkedIn**: [linkedin.com/in/rupchand-naiya-87bb8a228](https://www.linkedin.com/in/rupchand-naiya-87bb8a228)
+- 🐙 **GitHub**: [github.com/usergithubrup](https://github.com/usergithubrup)
+- 📧 **Email**: [rupchandnaiya27@gmail.com](mailto:rupchandnaiya27@gmail.com)
 
 ---
 
